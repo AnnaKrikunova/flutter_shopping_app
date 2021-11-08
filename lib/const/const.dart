@@ -1,0 +1,1 @@
+final NOT_SIGN_IN = 'NOT_SIGN_IN';
